@@ -34,23 +34,13 @@ Relevant Coursework: Data Structures, Algorithms, Computer Networks, Operating S
 
 ## TECHNICAL SKILLS
 - **Languages:** Java, C, C#, Python; working knowledge of C++
-- **Tools/Platforms:** SQL, Excel, Power BI, Microsoft Fabric, Azure, Unity, GameMaker, GIS
+- **Tools/Platforms:** SQL, Excel, Power BI, Microsoft Fabric, Azure, GIS
 
-## PROJECTS
-
-### Toxicity Detection for In-Game Chat
-- Developed a machine learning program to analyze toxicity in in-game chat messages
-- Applied classification techniques to identify harmful or abusive language patterns
+## LEADERSHIP & ACTIVITIES
 
 ### UGA HACKS 11 — Team Lead & Programmer
 - Led project direction, team coordination, and task organization during the hackathon
 - Developed backend functionality and integrated internal and external APIs
-
-### Game Development Projects
-- Built multiple individual game projects using Unity and GameMaker
-- Developed gameplay systems and programming logic as part of independent software projects
-
-## LEADERSHIP & ACTIVITIES
 
 ### Future Business Leaders of America — Executive President of Operations
 **2023 – 2024**
@@ -62,3 +52,7 @@ Relevant Coursework: Data Structures, Algorithms, Computer Networks, Operating S
 **2025**
 - Contributed as a programmer on a collaborative game project
 - Recruited peers into the club and mentored friends in Unity development
+
+### Toxicity Detection for In-Game Chat
+- Developed a machine learning program to analyze toxicity in in-game chat messages
+- Applied classification techniques to identify harmful or abusive language patterns
