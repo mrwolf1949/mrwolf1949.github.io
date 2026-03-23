@@ -52,7 +52,3 @@ Relevant Coursework: Data Structures, Algorithms, Computer Networks, Operating S
 **2025**
 - Contributed as a programmer on a collaborative game project
 - Recruited peers into the club and mentored friends in Unity development
-
-### Toxicity Detection for In-Game Chat
-- Developed a machine learning program to analyze toxicity in in-game chat messages
-- Applied classification techniques to identify harmful or abusive language patterns
